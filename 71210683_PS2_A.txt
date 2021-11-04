@@ -1,0 +1,3 @@
+pertama kopi dituang dan kpi masuk ke saluran kanan dan kiri,namun saluran kanan akan turun dan menuju penampungan yang terdapat 2 biji ,kalau sudah penuh kopi akan masuk ke saluran yang menuju gelas nomor 5 dan 7 
+jika saluran kiri masuk dan menuju penampungan besar namun langsung masuk juga ke gelas nomor 4 dan 9
+jadi kopi akan terisi duluan di gelas nomor 4 dan 9
